@@ -1,8 +1,8 @@
 # Canvas Gauge v0.1
 
-An HTML5 Canvas gauge with glow and animation. This comes from http://www.fabledweb.com/html5-canvas-gauge.html. 
+基于canvas的仪表盘和动画。 根据 http://www.fabledweb.com/html5-canvas-gauge.html. 的代码进行了适当修改，在此基础上增加了仪表盘刻度示数和中间总示数
 
-## Usage
+## 使用方法
 
 ```javascript
 var my_canvas_obj= document.getElementById("my-canvas");
