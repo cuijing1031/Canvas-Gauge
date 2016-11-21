@@ -43,7 +43,6 @@
         "total_tick": 101,
         "tick_color": "#a6a6ad",
         "tick_on_color": "#527d98",
-        "tick_on_glow": 0,
         "bg_image": null,
         "gauge_scale": 1,
         "animation_duration": 1000,
